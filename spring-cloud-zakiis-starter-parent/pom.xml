@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>io.github.zakiis</groupId>
 		<artifactId>spring-cloud-zakiis-dependencies</artifactId>
-		<version>2022.0.1-SNAPSHOT</version>
+		<version>2022.0.1-M1</version>
 		<relativePath>../spring-cloud-zakiis-dependencies</relativePath>
 	</parent>
 	<artifactId>spring-cloud-zakiis-starter-parent</artifactId>

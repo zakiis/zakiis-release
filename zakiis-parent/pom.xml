@@ -6,14 +6,14 @@
 	<parent>
 		<groupId>io.github.zakiis</groupId>
 		<artifactId>zakiis-dependencies</artifactId>
-		<version>0.1.0-SNAPSHOT</version>
+		<version>1.0.0</version>
 		<relativePath>../zakiis-dependencies</relativePath>
 	</parent>
 	
 	<artifactId>zakiis-parent</artifactId>
 	<packaging>pom</packaging>
 
-	<name>Zakkis parent</name>
+	<name>zakiis-parent</name>
 	<modelVersion>4.0.0</modelVersion>
 
 	<properties>

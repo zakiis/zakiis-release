@@ -4,22 +4,22 @@
 	<parent>
 	    <groupId>io.github.zakiis</groupId>
 	    <artifactId>zakiis-parent</artifactId>
-	    <version>0.1.0-SNAPSHOT</version>
+	    <version>1.0.0</version>
 		<relativePath>../zakiis-parent</relativePath>
 	</parent>
 	
 	<artifactId>spring-cloud-zakiis-dependencies</artifactId>
-	<version>2022.0.1-SNAPSHOT</version>
+	<version>2022.0.1-M1</version>
 	<packaging>pom</packaging>
 
-	<name>spring cloud zakiis :: BOM (Bill of Materials)</name>
+	<name>spring-cloud-zakiis-dependencies</name>
 	<modelVersion>4.0.0</modelVersion>
 
 	<properties>
 		<spring-boot.version>3.0.2</spring-boot.version>
 		<spring-cloud.version>2022.0.1</spring-cloud.version>
 		<spring-cloud-starter-alibaba.version>2022.0.0.0-RC1</spring-cloud-starter-alibaba.version>
-		<spring-cloud-zakiis-stater.version>2022.0.1-SNAPSHOT</spring-cloud-zakiis-stater.version>
+		<spring-cloud-zakiis-stater.version>2022.0.1-M1</spring-cloud-zakiis-stater.version>
 	</properties>
 
 	<dependencyManagement>
